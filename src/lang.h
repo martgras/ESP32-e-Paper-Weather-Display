@@ -70,3 +70,6 @@ const char* weekday_D[] = { "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat" };
 //Month
 const char* month_M[] = { "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" };
 
+const String TXT_INDOOR = "indoor" ;
+const String TXT_OUTDOOR = "outdoor" ;
+
