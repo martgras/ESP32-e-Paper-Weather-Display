@@ -5,6 +5,7 @@ const String TXT_FORECAST_VALUES  = "3 Tages Vorhersage";
 const String TXT_CONDITIONS       = "Aktuelles Wetter";
 const String TXT_DAYS             = "(Tage)";
 const String TXT_TEMPERATURES     = "Temperatur";
+const String TXT_TEMPERATURE_FEELS_LIKE     = "Temperatur (gefühlt)";
 const String TXT_TEMPERATURE_C    = "Temperatur [°C]";
 const String TXT_TEMPERATURE_F    = "Temperatur [°F]";
 const String TXT_HUMIDITY_PERCENT = "Luftfeuchte [%]";
